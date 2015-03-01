@@ -1,3 +1,8 @@
+# Visual Studio User-specific files
+*.suo
+*.user
+*.sln.docstates
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -41,3 +46,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.cache
